@@ -26,3 +26,8 @@ devices device ucpe
 devices device ucpe
 read-timeout 1000
 ```
+
+This package is compatible with a NETCONF NED generated from dosiOS version dated by 30/08/2021\_17:50 ["HIT"](https://github.com/dmytroshytyi/dosiOS-uCPE)
+To get the dosiOS yang modules refer to "NSO pioneer" tool.
+
+This package supposed to be used in the NSO 5.0.
